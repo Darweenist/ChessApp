@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RandomPlayer
+comment0.text=\n\ Represents\ a\ player\ that\ makes\ random\ moves.\n\n\ @author\ Dawson\ Chen\n\ @version\ 4/28/19\n
+comment1.params=b\ n\ col
+comment1.target=RandomPlayer(Board,\ java.lang.String,\ java.awt.Color)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ RandomPlayer\n\ @param\ b\ the\ board\ the\ game\ is\ played\ on\n\ @param\ n\ the\ name\ of\ the\ player\n\ @param\ col\ the\ color\ the\ player\ is\ representing\n
+comment2.params=
+comment2.target=Move\ nextMove()
+comment2.text=\n\ Finds\ the\ next\ move\n\ @return\ the\ next\ random\ move\n
+numComments=3

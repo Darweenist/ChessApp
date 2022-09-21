@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Pawn
+comment0.text=\n\ Represents\ a\ pawn\ piece\ in\ a\ traditional\ chess\ game.\n\n\ @author\ Dawson\n\ @version\ 4/27/19\n
+comment1.params=col\ fileName\ loc
+comment1.target=Pawn(java.awt.Color,\ java.lang.String,\ Location)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ pawn\n\ @param\ col\ the\ color\ of\ the\ pawn\n\ @param\ fileName\ the\ image\ to\ use\ to\ represent\ this\ piece\n\ @param\ loc\ where\ the\ pawn\ starts\n
+comment2.params=
+comment2.target=java.util.ArrayList\ destinations()
+comment2.text=\n\ Finds\ the\ destinations\ to\ which\ this\ King\ can\ move\n\ @return\ ArrayList\ of\ locations\ where\ the\ King\ can\ move\ to\n
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SmartPlayer
+comment0.text=\n\ Represents\ a\ smarter\ player\ that\ looks\ a\ move\ ahead\n\n\ @author\ Dawson\ Chen\n\ @version\ 4/28/19\n
+comment1.params=b\ n\ col
+comment1.target=SmartPlayer(Board,\ java.lang.String,\ java.awt.Color)
+comment1.text=\n\ Instantiates\ player's\ instance\ variables\n\ @param\ b\ is\ the\ board\ the\ player\ is\ playing\ on\n\ @param\ n\ is\ the\ name\ of\ the\ player\n\ @param\ col\ is\ the\ color\ of\ the\ player\n
+comment2.params=
+comment2.target=int\ score()
+comment2.text=\n\ Calculates\ the\ score\ of\ the\ current\ situation\ by\ adding\ the\ values\ of\n\ this\ player's\ pieces\ and\ subtracting\ the\ opponent's\ pieces'\ values\n\ @return\ score\n
+comment3.params=
+comment3.target=Move\ nextMove()
+comment3.text=\n\ Returns\ the\ most\ optimal\ move\ by\ trying\ a\ move\ and\ \n\ calculating\ the\ points\ \n\ gained\ from\ that\ move.\ \n\ @return\ the\ most\ optimal\ move\n
+numComments=4

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\n\ Represents\ a\ generic\ chess\ player\n\n\ @author\ Dawson\ Chen\n\ @version\ 4/28/19\n
+comment1.params=b\ n\ col
+comment1.target=Player(Board,\ java.lang.String,\ java.awt.Color)
+comment1.text=\n\ Constructor\ for\ Player\n\ @param\ b\ the\ board\ the\ game\ will\ be\ played\ on\n\ @param\ n\ the\ name\ of\ the\ player\n\ @param\ col\ the\ color\ of\ the\ player's\ pieces\n
+comment2.params=
+comment2.target=Board\ getBoard()
+comment2.text=\n\ @return\ the\ board\ the\ game\ is\ played\ on\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\n\ @return\ the\ name\ of\ the\ player\n
+comment4.params=
+comment4.target=java.awt.Color\ getColor()
+comment4.text=\n\ @return\ the\ color\ of\ the\ player's\ pieces/side\n
+comment5.params=
+comment5.target=Move\ nextMove()
+comment5.text=\n\ @return\ the\ next\ move\ of\ the\ player,\ to\ be\ determined\n\ by\ what\ type\ of\ player\ this\ is\n
+numComments=6

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\n\ Represents\ a\ chess\ game\ with\ basic\ functionalities\n\n\ @author\ Dawson\ Chen\n\ @version\ 4/27/19\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Game\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\n\ Runs\ the\ chess\ game\n\ @param\ args\ the\ arguments\ passed\ into\ main\n
+comment3.params=board\ display\ player
+comment3.target=void\ nextTurn(Board,\ BoardDisplay,\ Player)
+comment3.text=\n\ Executes\ the\ next\ turn\ by\ calling\ next\ move\ on\ the\ player\ param\n\ @param\ player\ the\ next\ player\ who\ is\ to\ go\ their\ turn\n\ @param\ board\ is\ the\ chess\ board\ played\ on\n\ @param\ display\ is\ the\ BoardDisplay\ being\ used\ to\ show\ the\ game\n
+comment4.params=board\ display\ white\ black
+comment4.target=void\ play(Board,\ BoardDisplay,\ Player,\ Player)
+comment4.text=\n\ Continues\ to\ execute\ moves,\ \ alternating\ colors\ per\ turn\n\ @param\ board\ is\ the\ chess\ board\ played\ on\n\ @param\ display\ is\ the\ BoardDisplay\ being\ used\ to\ show\ the\ game\n\ @param\ white\ is\ the\ player\ with\ white\ pieces\n\ @param\ black\ is\ the\ player\ with\ black\ pieces\n
+numComments=5
